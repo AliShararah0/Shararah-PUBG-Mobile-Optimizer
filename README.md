@@ -58,7 +58,7 @@
 
 **Made with ❤️ by SHARARAH**
 
-© 2024 SHARARAH - Free & Open Source
+© 2026 SHARARAH - Free & Open Source
 
 ---
 
@@ -122,4 +122,4 @@
 
 **تم صنعه بحب بواسطة شراره**
 
-© 2024 شراره - مجاني ومفتوح المصدر
+© 2026 شراره - مجاني ومفتوح المصدر
